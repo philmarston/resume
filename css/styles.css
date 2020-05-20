@@ -1,0 +1,199 @@
+/**************** TAG SELECTORS ******************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+color: #40514E;
+}
+
+h1 {
+  color: #27496D;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #27496D;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #00909E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+a {
+  color: #00909E;
+}
+
+a:hover {
+  color: #DAE1E7;
+}
+
+p {
+  line-height: 2;
+  font-size: 0.83rem;
+}
+
+hr {
+  clear: both;
+  border-style: none;
+  border-top: 5px dotted #27496D;
+  width: 5%;
+  margin: 40px auto;
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #DAE1E7;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+/*margin: 50px 0;
+width: 75%;*/
+}
+.bottom-container {
+  background-color: #142850;
+  color: #DAE1E7;
+  padding: 20px;
+}
+
+.profile {
+  margin: 50px auto;
+  width: 50%;
+  /*line-height: 2;*/
+}
+
+.interest-row {
+  clear: both;
+  margin: 0 auto;
+  padding-top: 50px;
+  width: 75%;
+  text-align: left;
+  /*line-height: 2;*/
+}
+
+.skill-row {
+  clear: both;
+  margin: 0 auto;
+  padding-top: 50px;
+  width: 75%;
+  text-align: left;
+  /*line-height: 2;*/
+}
+
+/*.bottom-ruler {
+
+}*/
+/*.get-in-touch {
+
+}*/
+.contact-me {
+  /*background-color: #142850;
+  margin-top: 0;
+  padding-top: 20px;
+  color: #DAE1E7;*/
+  margin: 50px auto;
+  width: 75%;
+  /*line-height: 2;*/
+}
+
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.83rem;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.copyright {
+  font-size: 0.5rem;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.icon-credits {
+  font-size: 0.5rem;
+}
+
+.profile-img {
+  width: 200px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.left-skills-img {
+  width: 136px;
+  float: left;
+  padding-right: 20px;
+}
+
+.right-skills-img {
+  width: 136px;
+  float: right;
+  padding-left: 20px;
+}
+
+.btn {
+  margin-top: 20px;
+  background: #27496D;
+  background-image: -webkit-linear-gradient(top, #27496D, #142850);
+  background-image: -moz-linear-gradient(top, #27496D, #142850);
+  background-image: -ms-linear-gradient(top, #27496D, #142850);
+  background-image: -o-linear-gradient(top, #27496D, #142850);
+  background-image: linear-gradient(to bottom, #27496D, #142850);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #DAE1E7;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  /*font-weight: 100;*/
+  padding: 20px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #27496D 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid #00909E 1px;
+  background: #27496D;
+  background-image: -webkit-linear-gradient(top, #27496D, #00909E);
+  background-image: -moz-linear-gradient(top, #27496D, #00909E);
+  background-image: -ms-linear-gradient(top, #27496D, #00909E);
+  background-image: -o-linear-gradient(top, #27496D, #00909E);
+  background-image: linear-gradient(to bottom, #27496D, #00909E);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+/*icons Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> */
